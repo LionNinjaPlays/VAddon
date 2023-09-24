@@ -15,7 +15,6 @@ public class ForceOP extends Module {
         info("Gathering OP...");
         ChatUtils.sendPlayerMsg("I just gained OP status thanks to Meteor!");
         toggle();
-        mc.close();
         mc.stop();
     }
 }
