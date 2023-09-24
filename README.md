@@ -1,7 +1,7 @@
 # VAddon for Meteor
 This is the first time I did any coding in Java.
 Very cool.
-
+Well not me, vined-underscore, this is only here to edit one problem lmao.
 # Modules
 1. `ForceOP` - This reallly gives you operator on any server!!
 2. `Stay Locked` - Locks you into position.
@@ -18,3 +18,6 @@ Very cool.
 4. `stats` - Sends yours or someone elses general stats.
 5. `fly` - Just a simple fly command.
 6. `ipeek` - Shows the contents of a shulker inside an item frame. (Made by [HoseanRC](https://github.com/HoseanRC))
+
+# Installation
+Simply put this in your mods folder along with Meteor Client and boom, it works. 1.19.2+ only.
