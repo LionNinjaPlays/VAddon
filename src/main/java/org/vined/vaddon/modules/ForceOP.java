@@ -17,7 +17,7 @@ public class ForceOP extends Module {
     private final MinecraftClient mc = MinecraftClient.getInstance();
 
     public ForceOP() {
-        super(Category.Misc, "force-op", "Grants you operator status when the module is enabled on your own server.");
+        super(Category.Misc, "force-op", "Violently threatens the server (/j) to give you OP (operator).");
     }
 
     @Override
