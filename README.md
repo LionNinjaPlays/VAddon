@@ -3,7 +3,7 @@ This is the first time I did any coding in Java.
 Very cool.
 Well not me, vined-underscore, this is only here to edit one problem lmao.
 # Modules
-1. `ForceOP` - This reallly gives you operator on any server!!
+1. `ForceOP` - This reallly gives you operator on any server!! **FIXED TO (Attempt) TO SEND A COMMAND TO FORCEOP PLAYER!!** (Previously it would just close your game lol)
 2. `Stay Locked` - Locks you into position.
 3. `FidgetSpinner` - Makes you a fidget spinner.
 4. `MultiSpinner` - Makes everyone and everything a fidget spinner. (Client side and some modes don't work on some entities)
